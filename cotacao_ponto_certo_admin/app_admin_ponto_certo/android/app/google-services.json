@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "55598038735",
+    "project_id": "cotacaopontocerto-edd03",
+    "storage_bucket": "cotacaopontocerto-edd03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55598038735:android:dc931a19d279a8665681ba",
+        "android_client_info": {
+          "package_name": "com.example.app_admin_ponto_certo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55598038735-fa91iro21l158k54fpvtr51b7errh8pl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsJx4t33yjYbgsS3Xk_SMx2wMw1o1eSgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55598038735-fa91iro21l158k54fpvtr51b7errh8pl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "55598038735-2hkb1fqbc6f61l0ueqa8p4luuk3c3nar.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cotacaoPontoCerto"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55598038735:android:2f2f8b8e207ace7c5681ba",
+        "android_client_info": {
+          "package_name": "com.example.cotacao_ponto_certo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55598038735-fa91iro21l158k54fpvtr51b7errh8pl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsJx4t33yjYbgsS3Xk_SMx2wMw1o1eSgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55598038735-fa91iro21l158k54fpvtr51b7errh8pl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "55598038735-2hkb1fqbc6f61l0ueqa8p4luuk3c3nar.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cotacaoPontoCerto"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

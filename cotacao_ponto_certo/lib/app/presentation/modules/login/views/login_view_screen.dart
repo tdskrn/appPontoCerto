@@ -148,7 +148,7 @@ class _LoginScreenViewState extends State<LoginScreenView>
                             controller: _passwordController,
                             decoration: InputDecoration(
                                 border: InputBorder.none,
-                                hintText: "Password",
+                                hintText: "Senha",
                                 hintStyle: TextStyle(color: Colors.grey)),
                           ),
                         )
